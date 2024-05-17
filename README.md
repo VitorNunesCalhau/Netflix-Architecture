@@ -12,15 +12,15 @@
 
 - A aplicação possui 3 componentes principais:
 - Cliente:
-    Dispositivo (Interface do Usuário) que é usado para navegar e reproduzir vídeos da Netflix. TV, XBOX, laptop ou celular, etc.
+    - Dispositivo (Interface do Usuário) que é usado para navegar e reproduzir vídeos da Netflix. TV, XBOX, laptop ou celular, etc.
 - OC (Open Connect) ou Netflix CDN:
-    CDN é a rede de servidores distribuídos em diferentes localizações geográficas, e Open Connect é a própria CDN global personalizada da Netflix.
-    Ele lida com tudo o que envolve streaming de vídeo.
-    É distribuído em diferentes locais e uma vez que você clica no botão de reprodução, o fluxo de vídeo deste componente é exibido em seu dispositivo.
-    Então, se você está tentando reproduzir o vídeo sentado na América do Norte, o vídeo será servido do open connect (ou servidor) mais próximo em vez do servidor original (resposta mais rápida do servidor mais próximo).
+    - CDN é a rede de servidores distribuídos em diferentes localizações geográficas, e Open Connect é a própria CDN global personalizada da Netflix.
+    - Ele lida com tudo o que envolve streaming de vídeo.
+    - É distribuído em diferentes locais e uma vez que você clica no botão de reprodução, o fluxo de vídeo deste componente é exibido em seu dispositivo.
+    - Então, se você está tentando reproduzir o vídeo sentado na América do Norte, o vídeo será servido do open connect (ou servidor) mais próximo em vez do servidor original (resposta mais rápida do servidor mais próximo).
 - Backend (Database):
-     Esta parte lida com tudo o que não envolve streaming de vídeo, como fazer upload de novos conteúdos, processar vídeos, distribuí-los para servidores localizados em diferentes partes do mundo e gerenciar o tráfego de rede.
-    A maioria dos processos é cuidada pela Amazon Web Services.
+     - Esta parte lida com tudo o que não envolve streaming de vídeo, como fazer upload de novos conteúdos, processar vídeos, distribuí-los para servidores localizados em diferentes partes do mundo e gerenciar o tráfego de rede.
+     - A maioria dos processos é cuidada pela Amazon Web Services.
 
 ## Arquitetura de microsserviços da Netflix
 - A arquitetura da Netflix é construída por uma coleção de serviços, conhecida como arquitetura de microserviços e ela alimenta todas as APIs necessárias para suas aplicações e serviços Web. Quando a solicitação chega ao endpoint, ela chama outros microsserviços para obter os dados necessários e esses microsserviços também podem solicitar dados de diferentes microsserviços. Depois disso, uma resposta é enviada para a solicitação da API de volta ao endpoint.
