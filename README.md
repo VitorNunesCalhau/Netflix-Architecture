@@ -7,7 +7,7 @@
 ## Modelo arquitetural do sistema
 - Para atender seus mais de 230 milhões de assinantes em mais de 200 países, a Netflix trabalha com dois sistemas clouds, AWS e Open Connect, que trabalham juntas para prover uma boa responsabilidade e streaming de alta qualidade a seus usuários
 
-![Modelo de Arquitetura](imagens/Netflix-High-Level-System-Architecture.jpg "Modelo de Arquitetura em Alto Nível")
+![Modelo de Arquitetura](imagens/Netflix-High-Level-System-Architecture.png "Modelo de Arquitetura em Alto Nível")
 **Figura 1 - Modelo de Arquitetura em Alto Nível da Netflix (tirado de: https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/)**
 
 - A aplicação possui 3 componentes principais:
