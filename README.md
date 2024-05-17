@@ -28,3 +28,8 @@
 ![Arquitetura de Microsserviços](imagens/microservice-architecture.jpg "Modelo de Arquitetura em Alto Nível")
 **Figura 2 - Arquitetura de Microsserviços da Netflix (tirado de: https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/)**
 
+## Tecnologias Utilizadas
+
+![Tecnologias](imagens/technologies-of-netflix.jpg "Modelo de Arquitetura em Alto Nível")
+**Figura 3 - Tecnologias Usadas pelo Sistema (tirado de: https://saxenasanket.medium.com/system-design-of-netflix-part-1-4d65642ed738)**
+
