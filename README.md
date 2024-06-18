@@ -61,6 +61,9 @@ O mecanismo de cache implementado pela Netflix se destaca pela forma que consegu
 ### Linguagens de programação: 
 Java: Linguagem principal para a maioria dos serviços backend
 Python: Usada para scripts, automação e análise de dados
+JavaScript: Usado junto da Lib React.js para criação da interface web
+Swift & Kotlin: Usados para criação da interface mobile
+GraphQL: Usado para realizar requisições que retornem somente os dados necessários
 Node.js: Usada para alguns serviços e interfaces de usuário
 Go: Utilizada em alguns serviços de alta performance 
 
