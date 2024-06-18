@@ -59,20 +59,20 @@ O mecanismo de cache implementado pela Netflix se destaca pela forma que consegu
 	
 	
 ### Linguagens de programação: 
-Java: Linguagem principal para a maioria dos serviços backend
-Python: Usada para scripts, automação e análise de dados
-JavaScript: Usado junto da Lib React.js para criação da interface web
-Swift & Kotlin: Usados para criação da interface mobile
-GraphQL: Usado para realizar requisições que retornem somente os dados necessários
-Node.js: Usada para alguns serviços e interfaces de usuário
-Go: Utilizada em alguns serviços de alta performance 
+- Java: Linguagem principal para a maioria dos serviços backend
+- Python: Usada para scripts, automação e análise de dados
+- JavaScript: Usado junto da Lib React.js para criação da interface web
+- Swift & Kotlin: Usados para criação da interface mobile
+- GraphQL: Usado para realizar requisições que retornem somente os dados necessários
+- Node.js: Usada para alguns serviços e interfaces de usuário
+- Go: Utilizada em alguns serviços de alta performance 
 
 ### Frameworks e Bibliotecas:
-Spring Boot: Framework Java para desenvolvimento de microsserviços
-Hystrix: Biblioteca para implementação de circuit breakers e resiliência
-Eureka: Sistema de descoberta de serviços desenvolvido pela Netflix
-RxJava: Biblioteca para programação reativa
-React: Biblioteca JavaScript para desenvolvimento de interfaces de usuário
+- Spring Boot: Framework Java para desenvolvimento de microsserviços
+- Hystrix: Biblioteca para implementação de circuit breakers e resiliência
+- Eureka: Sistema de descoberta de serviços desenvolvido pela Netflix
+- RxJava: Biblioteca para programação reativa
+- React: Biblioteca JavaScript para desenvolvimento de interfaces de usuário
 
 ### Infraestrutura em Nuvem (AWS):
 - EC2: Instâncias de computação virtual
