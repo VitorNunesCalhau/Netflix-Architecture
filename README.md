@@ -93,11 +93,10 @@ O mecanismo de cache implementado pela Netflix se destaca pela forma que consegu
 - Kubernetes: Orquestração de containers
 - Hadoop: Framework para processamento de grandes volumes de dados
 - Spark: Framework para processamento de dados em tempo real
-### Tecnologias Proprietárias:
-- Zuul: API Gateway
-- Ribbon: Balanceador de carga
-- Archaius: Gerenciamento de configurações
-- Simian Army: Conjunto de ferramentas para testes de resiliência
+
+
+## Tecnologias Proprietárias:
+A Netflix é conhecida por inovar e desenvolver ferramentas open source para suprir suas necessidades, ferramentas para orquestração e gerenciamento(Spinnaker, Titus, Conductor), resiliência e observabilidade(Chaos Monkey, Simian Army, Atlas, Vector), segurança(Scumblr, Lemur), bibliotecas(Ribbon, Hystrix, Archaius) e frameworks(Eureka, Falcor).
 
 ## Referências
 
