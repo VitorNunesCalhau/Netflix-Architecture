@@ -69,19 +69,19 @@ React: Biblioteca JavaScript para desenvolvimento de interfaces de usuário
 - RDS: Banco de dados relacional
 - Elasticsearch: Mecanismo de busca
 - Kinesis: Streaming de dados em tempo real
-   #### Ferramentas de DevOps:
+   ### Ferramentas de DevOps:
 - Jenkins: Automação de build e implantação
 - Spinnaker: Plataforma de implantação contínua
 - Chaos Monkey: Ferramenta para testes de resiliência
 - Atlas: Plataforma de monitoramento e telemetria
-	#### Outras Tecnologias:
+	### Outras Tecnologias:
 - Cassandra: Banco de dados NoSQL de alta performance
 - Kafka: Plataforma de streaming de mensagens
 - Docker: Conteinerização de aplicações
 - Kubernetes: Orquestração de containers
 - Hadoop: Framework para processamento de grandes volumes de dados
 - Spark: Framework para processamento de dados em tempo real
-	#### Tecnologias Proprietárias:
+	### Tecnologias Proprietárias:
 - Zuul: API Gateway
 - Ribbon: Balanceador de carga
 - Archaius: Gerenciamento de configurações
