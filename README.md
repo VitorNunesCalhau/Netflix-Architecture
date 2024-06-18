@@ -28,6 +28,15 @@
 ![Arquitetura de Microsserviços](imagens/microservice-architecture.jpg "Modelo de Arquitetura em Alto Nível")
 **Figura 2 - Arquitetura de Microsserviços da Netflix (tirado de: https://www.geeksforgeeks.org/system-design-netflix-a-complete-architecture/)**
 
+## Histórico de Mudanças na Tecnologia
+
+**Evolução da Infraestrutura:**
+
+- **Monolítico para Microsserviços**: Originalmente, a arquitetura da Netflix era monolítica. À medida que a empresa crescia, a necessidade de uma arquitetura mais modular e escalável levou à adoção de microsserviços.
+- **Migração para a Nuvem**: Em 2010, a Netflix iniciou a migração para a AWS, concluída em 2015. Essa mudança permitiu uma melhor escalabilidade e resiliência.
+- **CDN Própria (Open Connect)**: Para melhorar a entrega de conteúdo, a Netflix desenvolveu sua própria CDN, reduzindo a dependência de provedores terceirizados e otimizando a entrega de conteúdo.
+
+  
 ## Tecnologias Utilizadas
 
 ![Tecnologias](imagens/technologies-of-netflix.jpg "Modelo de Arquitetura em Alto Nível")
