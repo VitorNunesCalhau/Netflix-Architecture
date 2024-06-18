@@ -101,4 +101,5 @@ React: Biblioteca JavaScript para desenvolvimento de interfaces de usuário
 - Netflix Tech Blog. Disponível em: [https://netflixtechblog.com](https://netflixtechblog.com)
 - Amazon Web Services (AWS) Case Study: Netflix. Disponível em: [https://aws.amazon.com/solutions/case-studies/netflix/](https://aws.amazon.com/solutions/case-studies/netflix/)
 - Nirmata. "The Netflix Journey to a Global Cloud." Nirmata Blog. Disponível em: [https://nirmata.com/blog/the-netflix-journey-to-a-global-cloud/](https://nirmata.com/blog/the-netflix-journey-to-a-global-cloud/)
+- Cockcroft, Adrian. "Migrating to Cloud-Native Application Architectures." O'Reilly Media, 2015.
 
